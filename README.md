@@ -1,2 +1,4 @@
-# git-learn
-learning git
+# git-learn and github
+```python 
+   print("hello world")
+```
